@@ -1,6 +1,8 @@
 # Bin2Dec
 
-Tier: 1-Beginner
+Idea from [here](https://github.com/florinpop17/app-ideas)
+
+**Tier:** 1-Beginner
 
 Binary is the number system all digital computers are based on. Therefore it's important for developers to understand binary, or base 2, mathematics. The purpose of Bin2Dec is to provide practice and understanding of how binary calculations.
 
@@ -12,14 +14,12 @@ This challenge requires that the developer implementing it follow these constrai
 - Determining the decimal equivalent of a particular binary digit in the sequence must be calculated using a single mathematical function, for example the natural logarithm. It's up to you to figure out which function to use.
   
 ## User Stories
--[ ] User can enter up to 8 binary digits in one input field
-
--[ ] User must be notified if anything other than a 0 or 1 was entered
-
--[ ] User views the results in a single output field containing the decimal (base 10) equivalent of the binary number that was entered
+- [ ] User can enter up to 8 binary digits in one input field
+- [ ] User must be notified if anything other than a 0 or 1 was entered
+- [ ] User views the results in a single output field containing the decimal (base 10) equivalent of the binary number that was entered
 
 ## Bonus features
- User can enter a variable number of binary digits
+- [ ] User can enter a variable number of binary digits
 
 ## Contribuidores 😊
 <a href="https://github.com/NathanHermes/Helpfest/graphs/contributors">
